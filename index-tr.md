@@ -5,8 +5,6 @@ permalink: /tr/
 description: "Android'in herkesin üzerinde uygulama geliştirebileceği özgür, açık bir platform olmasını savunuyoruz."
 ---
 
-# Android Açık Kalsın
-
 Ağustos 2025 tarihinde Google, gelecek seneden itibaren önceden
 ile merkezi kayıt yaptırılmadan Android platformu için uygulama
 geliştirmenin mümkün olmayacağını beyan etmiştir.

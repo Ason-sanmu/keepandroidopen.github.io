@@ -5,8 +5,6 @@ permalink: /
 description: "Advocating for Android as a free, open platform for everyone to build apps on."
 ---
 
-# Keep Android Open
-
 In August 2025, Google [announced](https://developer.android.com/developer-verification) that starting next year,
 it will no longer be possible to develop apps for the Android platform
 without first registering centrally with Google.
