@@ -14,7 +14,6 @@
 #  social-x: ""
 #  social-linkedin: ""
 
-
 - organization: "AdGuard"
   url: "adguard.com"
   poc: "Daria Magdik <daria@adguard.com>"
@@ -298,6 +297,14 @@
   region: "IT"
   social-mastodon: "https://mastodon.cisti.org/@0n_odv"
   social-bluesky: "https://bsky.app/profile/osservatorionessuno.org"
+- organization: "Privacy Guides"
+  url: "privacyguides.org"
+  poc: "Jonah Aragon <jonah@privacyguides.org>"
+  region: "US"
+  social-mastodon: "https://mastodon.neat.computer/@privacyguides"
+  social-bluesky: "https://bsky.app/profile/privacyguides.org"
+  social-x: "https://x.com/privacy_guides"
+  social-linkedin: "https://linkedin.com/company/privacyguides"
 - organization: "Proton AG"
   url: "proton.me"
   poc: "Samuele Kaplun <samuele.kaplun@proton.ch>"
