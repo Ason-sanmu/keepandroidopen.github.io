@@ -156,6 +156,7 @@ countries:
           en: "Alabama"
           fr: "Alabama"
           da: "Alabama"
+          pt-BR: "Alabama"
           zh-CN: "阿拉巴马州"
           zh-TW: "阿拉巴馬州"
           vi: "Alabama"
@@ -164,18 +165,21 @@ countries:
               en: "File a complaint with the [Alabama Attorney General Consumer Protection](https://www.alabamaag.gov/consumer-complaint/)"
               fr: "Déposez une plainte auprès de l'[Alabama Attorney General Consumer Protection](https://www.alabamaag.gov/consumer-complaint/)"
               da: "Indsend en klage til [Alabama Attorney General Consumer Protection](https://www.alabamaag.gov/consumer-complaint/)"
+              pt-BR: "Faça uma reclamação junto à [Alabama Attorney General Consumer Protection](https://www.alabamaag.gov/consumer-complaint/)"
               zh-CN: "向[阿拉巴马州 总检察长消费者保护局](https://www.alabamaag.gov/consumer-complaint/)提出投诉"
               zh-TW: "向[阿拉巴馬州 總檢察長消費者保護局](https://www.alabamaag.gov/consumer-complaint/)提出申訴"
           - text:
               en: "Contact Senator [Tommy Tuberville](https://www.tuberville.senate.gov/contact)"
               fr: "Contactez le sénateur [Tommy Tuberville](https://www.tuberville.senate.gov/contact)"
               da: "Kontakt senator [Tommy Tuberville](https://www.tuberville.senate.gov/contact)"
+              pt-BR: "Entre em contato com o senador [Tommy Tuberville](https://www.tuberville.senate.gov/contact)"
               zh-CN: "联系参议员 [汤米·特伯维尔](https://www.tuberville.senate.gov/contact)"
               zh-TW: "聯絡參議員 [湯米·塔伯維爾](https://www.tuberville.senate.gov/contact)"
           - text:
               en: "Contact Senator [Katie Britt](https://www.britt.senate.gov/contact)"
               fr: "Contactez la sénatrice [Katie Britt](https://www.britt.senate.gov/contact)"
               da: "Kontakt senator [Katie Britt](https://www.britt.senate.gov/contact)"
+              pt-BR: "Entre em contato com a senadora [Katie Britt](https://www.britt.senate.gov/contact)"
               zh-CN: "联系参议员 [凯蒂·布里特](https://www.britt.senate.gov/contact)"
               zh-TW: "聯絡參議員 [凱蒂·布里特](https://www.britt.senate.gov/contact)"
       - id: us-ak
@@ -183,6 +187,7 @@ countries:
           en: "Alaska"
           fr: "Alaska"
           da: "Alaska"
+          pt-BR: "Alasca"
           zh-CN: "阿拉斯加州"
           zh-TW: "阿拉斯加州"
         items:
@@ -209,6 +214,7 @@ countries:
           en: "Arizona"
           fr: "Arizona"
           da: "Arizona"
+          pt-BR: "Arizona"
           zh-CN: "亚利桑那州"
           zh-TW: "亞利桑那州"
         items:
@@ -235,6 +241,7 @@ countries:
           en: "Arkansas"
           fr: "Arkansas"
           da: "Arkansas"
+          pt-BR: "Arkansas"
           zh-CN: "阿肯色州"
           zh-TW: "阿肯色州"
         items:
@@ -261,6 +268,7 @@ countries:
           en: "California"
           fr: "Californie"
           da: "Californien"
+          pt-BR: "Califórnia"
           zh-CN: "加利福尼亚州"
           zh-TW: "加利福尼亞州"
         items:
@@ -287,6 +295,7 @@ countries:
           en: "Colorado"
           fr: "Colorado"
           da: "Colorado"
+          pt-BR: "Colorado"
           zh-CN: "科罗拉多州"
           zh-TW: "科羅拉多州"
         items:
@@ -313,6 +322,7 @@ countries:
           en: "Connecticut"
           fr: "Connecticut"
           da: "Connecticut"
+          pt-BR: "Connecticut"
           zh-CN: "康涅狄格州"
           zh-TW: "康乃狄克州"
         items:
@@ -339,6 +349,7 @@ countries:
           en: "Delaware"
           fr: "Delaware"
           da: "Delaware"
+          pt-BR: "Delaware"
           zh-CN: "特拉华州"
           zh-TW: "德拉瓦州"
         items:
@@ -365,6 +376,7 @@ countries:
           en: "Florida"
           fr: "Floride"
           da: "Florida"
+          pt-BR: "Flórida"
           zh-CN: "佛罗里达州"
           zh-TW: "佛羅里達州"
         items:
@@ -391,6 +403,7 @@ countries:
           en: "Georgia"
           fr: "Géorgie"
           da: "Georgia"
+          pt-BR: "Geórgia"
           zh-CN: "佐治亚州"
           zh-TW: "喬治亞州"
         items:
@@ -417,6 +430,7 @@ countries:
           en: "Hawaii"
           fr: "Hawaï"
           da: "Hawaii"
+          pt-BR: "Havaí"
           zh-CN: "夏威夷州"
           zh-TW: "夏威夷州"
         items:
@@ -443,6 +457,7 @@ countries:
           en: "Idaho"
           fr: "Idaho"
           da: "Idaho"
+          pt-BR: "Idaho"
           zh-CN: "爱达荷州"
           zh-TW: "愛達荷州"
         items:
@@ -469,6 +484,7 @@ countries:
           en: "Illinois"
           fr: "Illinois"
           da: "Illinois"
+          pt-BR: "Illinois"
           zh-CN: "伊利诺伊州"
           zh-TW: "伊利諾州"
         items:
@@ -495,6 +511,7 @@ countries:
           en: "Indiana"
           fr: "Indiana"
           da: "Indiana"
+          pt-BR: "Indiana"
           zh-CN: "印第安纳州"
           zh-TW: "印第安納州"
         items:
@@ -521,6 +538,7 @@ countries:
           en: "Iowa"
           fr: "Iowa"
           da: "Iowa"
+          pt-BR: "Iowa"
           zh-CN: "爱荷华州"
           zh-TW: "愛荷華州"
         items:
@@ -547,6 +565,7 @@ countries:
           en: "Kansas"
           fr: "Kansas"
           da: "Kansas"
+          pt-BR: "Kansas"
           zh-CN: "堪萨斯州"
           zh-TW: "堪薩斯州"
         items:
@@ -573,6 +592,7 @@ countries:
           en: "Kentucky"
           fr: "Kentucky"
           da: "Kentucky"
+          pt-BR: "Kentucky"
           zh-CN: "肯塔基州"
           zh-TW: "肯塔基州"
         items:
@@ -599,6 +619,7 @@ countries:
           en: "Louisiana"
           fr: "Louisiane"
           da: "Louisiana"
+          pt-BR: "Louisiana"
           zh-CN: "路易斯安那州"
           zh-TW: "路易斯安那州"
         items:
@@ -625,6 +646,7 @@ countries:
           en: "Maine"
           fr: "Maine"
           da: "Maine"
+          pt-BR: "Maine"
           zh-CN: "缅因州"
           zh-TW: "緬因州"
         items:
@@ -651,6 +673,7 @@ countries:
           en: "Maryland"
           fr: "Maryland"
           da: "Maryland"
+          pt-BR: "Maryland"
           zh-CN: "马里兰州"
           zh-TW: "馬里蘭州"
         items:
@@ -677,6 +700,7 @@ countries:
           en: "Massachusetts"
           fr: "Massachusetts"
           da: "Massachusetts"
+          pt-BR: "Massachusetts"
           zh-CN: "马萨诸塞州"
           zh-TW: "麻薩諸塞州"
         items:
@@ -703,6 +727,7 @@ countries:
           en: "Michigan"
           fr: "Michigan"
           da: "Michigan"
+          pt_BR: "Michigan"
           zh-CN: "密歇根州"
           zh-TW: "密西根州"
         items:
@@ -729,6 +754,7 @@ countries:
           en: "Minnesota"
           fr: "Minnesota"
           da: "Minnesota"
+          pt-BR: "Minnesota"
           zh-CN: "明尼苏达州"
           zh-TW: "明尼蘇達州"
         items:
@@ -755,6 +781,7 @@ countries:
           en: "Mississippi"
           fr: "Mississippi"
           da: "Mississippi"
+          pt-BR: "Mississippi"
           zh-CN: "密西西比州"
           zh-TW: "密西西比州"
         items:
@@ -781,6 +808,7 @@ countries:
           en: "Missouri"
           fr: "Missouri"
           da: "Missouri"
+          pt-BR: "Missouri"
           zh-CN: "密苏里州"
           zh-TW: "密蘇里州"
         items:
@@ -807,6 +835,7 @@ countries:
           en: "Montana"
           fr: "Montana"
           da: "Montana"
+          pt-BR: "Montana"
           zh-CN: "蒙大拿州"
           zh-TW: "蒙大拿州"
         items:
@@ -833,6 +862,7 @@ countries:
           en: "Nebraska"
           fr: "Nebraska"
           da: "Nebraska"
+          pt-BR: "Nebraska"
           zh-CN: "内布拉斯加州"
           zh-TW: "內布拉斯加州"
         items:
@@ -859,6 +889,7 @@ countries:
           en: "Nevada"
           fr: "Nevada"
           da: "Nevada"
+          pt-BR: "Nevada"
           zh-CN: "内华达州"
           zh-TW: "內華達州"
         items:
@@ -885,6 +916,7 @@ countries:
           en: "New Hampshire"
           fr: "New Hampshire"
           da: "New Hampshire"
+          pt-BR: "New Hampshire"
           zh-CN: "新罕布什尔州"
           zh-TW: "新罕布夏州"
         items:
@@ -911,6 +943,7 @@ countries:
           en: "New Jersey"
           fr: "New Jersey"
           da: "New Jersey"
+          pt-BR: "Nova Jersey"
           zh-CN: "新泽西州"
           zh-TW: "紐澤西州"
         items:
@@ -937,6 +970,7 @@ countries:
           en: "New Mexico"
           fr: "Nouveau-Mexique"
           da: "New Mexico"
+          pt-BR: "Novo México"
           zh-CN: "新墨西哥州"
           zh-TW: "新墨西哥州"
         items:
@@ -963,6 +997,7 @@ countries:
           en: "New York"
           fr: "New York"
           da: "New York"
+          pt-BR: "Nova York"
           zh-CN: "纽约州"
           zh-TW: "紐約州"
         items:
@@ -989,6 +1024,7 @@ countries:
           en: "North Carolina"
           fr: "Caroline du Nord"
           da: "North Carolina"
+          pt-BR: "Carolina do Norte"
           zh-CN: "北卡罗来纳州"
           zh-TW: "北卡羅萊納州"
         items:
@@ -1015,6 +1051,7 @@ countries:
           en: "North Dakota"
           fr: "Dakota du Nord"
           da: "North Dakota"
+          pt-BR: "Dakota do Norte"
           zh-CN: "北达科他州"
           zh-TW: "北達科他州"
         items:
@@ -1041,6 +1078,7 @@ countries:
           en: "Ohio"
           fr: "Ohio"
           da: "Ohio"
+          pt-BR: "Ohio"
           zh-CN: "俄亥俄州"
           zh-TW: "俄亥俄州"
         items:
@@ -1067,6 +1105,7 @@ countries:
           en: "Oklahoma"
           fr: "Oklahoma"
           da: "Oklahoma"
+          pt-BR: "Oklahoma"
           zh-CN: "俄克拉何马州"
           zh-TW: "奧克拉荷馬州"
         items:
@@ -1093,6 +1132,7 @@ countries:
           en: "Oregon"
           fr: "Oregon"
           da: "Oregon"
+          pt-BR: "Oregon"
           zh-CN: "俄勒冈州"
           zh-TW: "俄勒岡州"
         items:
@@ -1119,6 +1159,7 @@ countries:
           en: "Pennsylvania"
           fr: "Pennsylvanie"
           da: "Pennsylvania"
+          pt-BR: "Pensilvânia"
           zh-CN: "宾夕法尼亚州"
           zh-TW: "賓夕法尼亞州"
         items:
@@ -1145,6 +1186,7 @@ countries:
           en: "Rhode Island"
           fr: "Rhode Island"
           da: "Rhode Island"
+          pt-BR: "Rhode Island"
           zh-CN: "罗得岛州"
           zh-TW: "羅德島州"
         items:
@@ -1171,6 +1213,7 @@ countries:
           en: "South Carolina"
           fr: "Caroline du Sud"
           da: "South Carolina"
+          pt-BR: "Carolina do Sul"
           zh-CN: "南卡罗来纳州"
           zh-TW: "南卡羅萊納州"
         items:
@@ -1197,6 +1240,7 @@ countries:
           en: "South Dakota"
           fr: "Dakota du Sud"
           da: "South Dakota"
+          pt-BR: "Dakota do Sul"
           zh-CN: "南达科他州"
           zh-TW: "南達科他州"
         items:
@@ -1223,6 +1267,7 @@ countries:
           en: "Tennessee"
           fr: "Tennessee"
           da: "Tennessee"
+          pt-BR: "Tennessee"
           zh-CN: "田纳西州"
           zh-TW: "田納西州"
         items:
@@ -1249,6 +1294,7 @@ countries:
           en: "Texas"
           fr: "Texas"
           da: "Texas"
+          pt-BR: "Texas"
           zh-CN: "得克萨斯州"
           zh-TW: "德克薩斯州"
         items:
@@ -1275,6 +1321,7 @@ countries:
           en: "Utah"
           fr: "Utah"
           da: "Utah"
+          pt-BR: "Utah"
           zh-CN: "犹他州"
           zh-TW: "猶他州"
         items:
@@ -1301,6 +1348,7 @@ countries:
           en: "Vermont"
           fr: "Vermont"
           da: "Vermont"
+          pt-BR: "Vermont"
           zh-CN: "佛蒙特州"
           zh-TW: "佛蒙特州"
         items:
@@ -1327,6 +1375,7 @@ countries:
           en: "Virginia"
           fr: "Virginie"
           da: "Virginia"
+          pt-BR: "Virgínia"
           zh-CN: "弗吉尼亚州"
           zh-TW: "維吉尼亞州"
         items:
@@ -1353,6 +1402,7 @@ countries:
           en: "Washington"
           fr: "Washington"
           da: "Washington"
+          pt-BR: "Washington"
           zh-CN: "华盛顿州"
           zh-TW: "華盛頓州"
         items:
@@ -1379,6 +1429,7 @@ countries:
           en: "West Virginia"
           fr: "Virginie-Occidentale"
           da: "West Virginia"
+          pt-BR: "Virgínia Ocidental"
           zh-CN: "西弗吉尼亚州"
           zh-TW: "西維吉尼亞州"
         items:
@@ -1405,6 +1456,7 @@ countries:
           en: "Wisconsin"
           fr: "Wisconsin"
           da: "Wisconsin"
+          pt-BR: "Wisconsin"
           zh-CN: "威斯康星州"
           zh-TW: "威斯康辛州"
         items:
@@ -1431,6 +1483,7 @@ countries:
           en: "Wyoming"
           fr: "Wyoming"
           da: "Wyoming"
+          pt-BR: "Wyoming"
           zh-CN: "怀俄明州"
           zh-TW: "懷俄明州"
         items:
@@ -1495,6 +1548,7 @@ countries:
           tr: "Dijital Piyasalar Yasası ekibine e-posta atın: [EC-DMA@ec.europa.eu](mailto:EC-DMA@ec.europa.eu?cc=dma@keepandroidopen.org)"
           uk: "Електронна пошта до команди Акту про цифрові ринки (DMA): [EC-DMA@ec.europa.eu](mailto:EC-DMA@ec.europa.eu?cc=dma@keepandroidopen.org)"
           pl: "E-mail do zespołu Digital Markets Act: [EC-DMA@ec.europa.eu](mailto:EC-DMA@ec.europa.eu?cc=dma@keepandroidopen.org)"
+          pt-BR: "Envie um email para o Digital Markets Act team: [EC-DMA@ec.europa.eu](mailto:EC-DMA@ec.europa.eu?cc=dma@keepandroidopen.org)"
           zh-CN: "给数字市场法案团队发送电子邮件：[EC-DMA@ec.europa.eu](mailto:EC-DMA@ec.europa.eu?cc=dma@keepandroidopen.org)"
           zh-TW: "傳送電子郵件給數位市場法案團隊：[EC-DMA@ec.europa.eu](mailto:EC-DMA@ec.europa.eu?cc=dma@keepandroidopen.org)"
       - text:
@@ -1515,7 +1569,7 @@ countries:
           tr: "DMA ekibiyle iletişime geçin: [https://digital-markets-act.ec.europa.eu/contact-dma-team_en](https://digital-markets-act.ec.europa.eu/contact-dma-team_en)"
           uk: "Зв'язатися з командою DMA: [https://digital-markets-act.ec.europa.eu/contact-dma-team_en](https://digital-markets-act.ec.europa.eu/contact-dma-team_en)"
           pl: "Kontakt z zespołem DMA: [https://digital-markets-act.ec.europa.eu/contact-dma-team_en](https://digital-markets-act.ec.europa.eu/contact-dma-team_en)"
-          pt-BR: "Contact DMA team: [https://digital-markets-act.ec.europa.eu/contact-dma-team_pt](https://digital-markets-act.ec.europa.eu/contact-dma-team_pt)"
+          pt-BR: "Entre em contato com o DMA team: [https://digital-markets-act.ec.europa.eu/contact-dma-team_pt](https://digital-markets-act.ec.europa.eu/contact-dma-team_pt)"
           zh-CN: "联系 DMA 团队：[https://digital-markets-act.ec.europa.eu/contact-dma-team_en](https://digital-markets-act.ec.europa.eu/contact-dma-team_en)"
           zh-TW: "聯絡 DMA 團隊：[https://digital-markets-act.ec.europa.eu/contact-dma-team_en](https://digital-markets-act.ec.europa.eu/contact-dma-team_en)"
       - text:
@@ -1524,6 +1578,7 @@ countries:
           de: "Kontaktieren Sie Ihre Mitglieder des Europäischen Parlaments: [https://zeyus.com/contact-mep-representative](https://zeyus.com/contact-mep-representative)"
           fr: "Contactez directement vos députés européen : [https://zeyus.com/contact-mep-representative](https://zeyus.com/contact-mep-representative)"
           tr: "Avrupa Parlamentosu Milletvekilinizle doğrudan iletişime geçin: [https://zeyus.com/contact-mep-representative](https://zeyus.com/contact-mep-representative)"
+          pt-BR: "Entre em contato direto com um membro do Parlamento Europeu: [https://zeyus.com/contact-mep-representative](https://zeyus.com/contact-mep-representative)"
           zh-CN: "直接联系您的欧洲议会议员：[https://zeyus.com/contact-mep-representative](https://zeyus.com/contact-mep-representative)"
           zh-TW: "直接聯絡您的歐洲議會議員：[https://zeyus.com/contact-mep-representative](https://zeyus.com/contact-mep-representative)"
       - text:
@@ -1544,6 +1599,7 @@ countries:
           id: "Pos-el Anti-Monopoli: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?cc=europe@keepandroidopen.org)"
           uk: "Електронна пошта антимонопольного комітету: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?cc=europe@keepandroidopen.org)"
           pl: "E-mail dot. antymonopolu: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?cc=europe@keepandroidopen.org)"
+          pt-BR: "Envie um email para a Direção Antitruste: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?cc=europe@keepandroidopen.org)"
           zh-CN: "给反垄断部门发送电子邮件：[COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?cc=europe@keepandroidopen.org)"
           zh-TW: "傳送電子郵件給反壟斷部門：[COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?cc=europe@keepandroidopen.org)"
       - text:
@@ -1564,7 +1620,7 @@ countries:
           tr: "Şu kuruma şikayette bulunun: [EU Competition Policy](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)"
           uk: "Поскаржитися до [EU Competition Policy](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)"
           pl: "Złóż skargę do [EU Competition Policy](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)"
-          pt-BR: "Reclame para a [EU Competition Policy](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)"
+          pt-BR: "Envie uma reclamação para a [EU Competition Policy](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)"
           zh-CN: "向 [欧盟竞争政策局](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en) 提出投诉"
           zh-TW: "向 [歐盟競爭政策局](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en) 提出申訴"
     children:
@@ -2195,7 +2251,7 @@ countries:
       tr: "İsviçre"
       uk: "Швейцарія"
       pl: "Szwajcaria"
-      pt-BR: "Switzerland"
+      pt-BR: "Suíça"
       zh-CN: "瑞士"
       zh-TW: "瑞士"
       ja: "スイス"
@@ -2323,6 +2379,7 @@ countries:
   - id: new-zealand
     name:
       en: "Aotearoa / New Zealand"
+      pt-BR: "Aotearoa / Nova Zelândia"
       zh-CN: "奥特亚罗瓦/新西兰"
     items:
       - text:
@@ -2546,6 +2603,7 @@ countries:
     name:
       en: "Italy"
       it: "Italia"
+      pt-BR: "Itália"
       zh-CN: "意大利"
       zh-TW: "義大利"
     items:
@@ -2927,6 +2985,7 @@ countries:
       th: "โปแลนด์"
       id: "Polandia"
       pl: "Polska"
+      pt-BR: "Polônia"
       zh-TW: "波蘭"
       ja: "ポーランド"
       zh-CN: "波兰"
@@ -2972,6 +3031,7 @@ countries:
       tr: "Çek Cumhuriyeti"
       uk: "Чеська Республіка"
       pl: "Czechy"
+      pt-BR: "República Tcheca"
       zh-CN: "捷克共和国"
       zh-TW: "捷克共和國"
       ja: "チェコ"
@@ -3027,7 +3087,7 @@ countries:
       tr: "Ukranya"
       uk: "Україна"
       pl: "Ukraina"
-      pt-BR: "Ukraine"
+      pt-BR: "Ucrânia"
       zh-CN: "乌克兰"
       zh-TW: "烏克蘭"
       ja: "ウクライナ"
@@ -3089,6 +3149,7 @@ countries:
       ja: "スロバキア"
       el: "Σλοβακία"
       tr: "Slovakya"
+      pt-BR: "Eslováquia"
       zh-CN: "斯洛伐克"
     locales:
       - sk
@@ -3117,6 +3178,7 @@ countries:
       ar: "جمهورية الصين"
       en: "Chinese Mainland"
       da: "Det kinesiske fastland"
+      pt-BR: "China Continental"
       zh-CN: "中国大陆"
       zh-TW: "中國大陸"
       ja: "中国本土"
@@ -3155,6 +3217,7 @@ countries:
       fr: "Arabie Saoudite"
       el: "Σαουδική Αραβία"
       tr: "Suudi Arabistan"
+      pt-BR: "Arábia Saudita"
       zh-CN: "沙特阿拉伯"
       zh-TW: "沙烏地阿拉伯"
     items:
@@ -3180,6 +3243,7 @@ countries:
     name:
         ar: "جمهورية مصر العربية"
         en: "Egypt"
+        pt-BR: "Egito"
         zh-CN: "埃及"
         zh-TW: "埃及"
     items:
@@ -3195,6 +3259,7 @@ countries:
     name:
       en: "Hungary"
       hu: "Magyarország"
+      pt-BR: "Hungria"
       zh-CN: "匈牙利"
       zh-TW: "匈牙利"
     items:
