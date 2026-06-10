@@ -63,7 +63,7 @@ hero_kicker: "全世界所有应用、所有设备都不例外。"
 what_heading: "Google 在做什么？"
 # [en] what_intro: "In August 2025, Google [announced](https://developer.android.com/developer-verification) a new requirement: starting September 2026, **every Android app developer must register centrally with Google** before their software can be installed on any device. Not just Play Store apps: all apps. This includes apps shared between friends, distributed through [F-Droid](https://f-droid.org), built by hobbyists for personal use. Independent developers, church and community groups, and hobbyists alike will all be frozen out of being able to develop and distribute their software."
 what_intro: >-
-  2025 年 8 月，Google [宣布](https://developer.android.com/developer-verification) 了一条新规：自 2026 年 9 月起，**所有 Android 开发者都必须集中向 Google 报备**，否则开发的软件就无法安装到任何设备上。所有应用均会受影响，包括朋友间互传的软件、在 [F-Droid](https://f-droid.org) 上发布的软件以及由爱好者开发、个人使用的软件，而不仅限于 Play Store 中的应用。独立开发者、社区组织、业余爱好者等都将无法开发、发布自己的软件。
+  2025 年 8 月，Google [宣布](https://developer.android.google.cn/developer-verification?hl=zh-cn) 了一条新规：自 2026 年 9 月起，**所有 Android 开发者都必须集中向 Google 报备**，否则开发的软件就无法安装到任何设备上。所有应用均会受影响，包括朋友间互传的软件、在 [F-Droid](https://f-droid.org) 上发布的软件以及由爱好者开发、个人使用的软件，而不仅限于 Play Store 中的应用。独立开发者、社区组织、业余爱好者等都将无法开发、发布自己的软件。
 # [en] what_registration: "Registration requires:"
 what_registration: "为了注册，开发者需要："
 # [en] what_req_fee: "Paying a fee to Google"
